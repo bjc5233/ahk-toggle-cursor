@@ -11,5 +11,9 @@
 3. 每次执行该脚本, 会变更光标为下一组
 
 
-## 预览
+## TODO
+1. 检查*.inf文件时候正确(是否包含需要的字段)
+
+
+## 演示
 <div align=center><img src="https://github.com/bjc5233/ahk-toggle-cursor/raw/master/resources/demo.gif"/></div>
