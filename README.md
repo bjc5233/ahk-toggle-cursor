@@ -1,4 +1,4 @@
-# toggle-cursor
+# ahk-toggle-cursor
 
 ## 说明
 > 快捷切换鼠标指针样式
